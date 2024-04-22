@@ -4,7 +4,9 @@
 [![Apache-2.0 license](https://img.shields.io/badge/license-Apache--2.0-success})](LICENSE)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://pre-commit.com/)
 
-# openspp - a Doodba deployment
+# OpenSPP 
+
+The quick start guide is located [here](https://docs.openspp.org/getting_started/installation_guide.html).
 
 This project is a Doodba scaffolding. Check upstream docs on the matter:
 
