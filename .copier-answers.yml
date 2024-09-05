@@ -20,7 +20,7 @@ odoo_initial_lang: en_US
 odoo_listdb: false
 odoo_oci_image: openspp/openspp
 odoo_proxy: traefik
-odoo_version: 15.0
+odoo_version: 17.0
 paths_without_crawlers:
   - /
 postgres_cidr_whitelist: null
@@ -28,7 +28,7 @@ postgres_dbname: prod
 postgres_exposed: false
 postgres_exposed_port: 5432
 postgres_username: odoo
-postgres_version: "13"
+postgres_version: "15"
 project_author: OpenSPP
 project_license: LGPL-3.0-or-later
 project_name: OpenSPP
