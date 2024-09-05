@@ -1,8 +1,8 @@
 git+https://github.com/OCA/openupgradelib.git@master
 unicodecsv
 unidecode
-twilio==7.9.2
-boto3==1.24.2
+twilio>=9.2.4
+boto3>=1.35.12
 celery
 flower
 faker
