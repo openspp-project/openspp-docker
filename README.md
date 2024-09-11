@@ -4,9 +4,12 @@
 [![Apache-2.0 license](https://img.shields.io/badge/license-Apache--2.0-success})](LICENSE)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://pre-commit.com/)
 
-# OpenSPP 
+# OpenSPP
 
 The quick start guide is located [here](https://docs.openspp.org/getting_started/installation_guide.html).
+
+Adjust the openspp-modules branch in `odoo/custom/src/repos.yaml` to the desired branch.
+Currently, the OpenSPP Batanes release (17.0.1.2.1) is used.
 
 This project is a Doodba scaffolding. Check upstream docs on the matter:
 
