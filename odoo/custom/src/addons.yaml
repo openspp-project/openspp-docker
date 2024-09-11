@@ -16,3 +16,5 @@ queue:
   - queue_job
 muk_addons:
   - "*"
+server-backend:
+  - "*"
