@@ -2,6 +2,10 @@ openg2p_registry:
   - "*"
 openg2p_program:
   - "*"
+openg2p_rest_framework:
+  - "fastapi"
+  - "extendable"
+  - "extendable_fastapi"
 openspp_modules:
   - "*"
 server-tools:
