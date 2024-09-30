@@ -36,6 +36,7 @@ PyLD
 bravado_core
 faker
 geojson
+jq
 jsonschema
 jwcrypto
 numpy>=1.22.2
