@@ -18,3 +18,5 @@ muk_addons:
   - "*"
 server-backend:
   - "*"
+web-api:
+  - endpoint_route_handler

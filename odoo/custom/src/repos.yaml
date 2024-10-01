@@ -116,3 +116,10 @@ server-backend:
   target: OCA 17.0
   merges:
     - OCA 17.0
+
+web-api:
+  remotes:
+    OCA: https://github.com/OCA/web-api.git
+  target: OCA 17.0
+  merges:
+    - OCA 17.0
